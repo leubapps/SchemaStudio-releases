@@ -6,20 +6,28 @@ This repository hosts the official release builds for **SchemaStudio** by LeuB A
 - **Documentation:** https://leubapps.com/SchemaStudio/Docs
 - **Support:** support@leubapps.com
 
+## Current version
+
+**1.0.1** — [Release notes](https://github.com/leubapps/SchemaStudio-releases/releases/tag/v1.0.1)
+
 ## Downloads
 
 Find the latest installer under [Releases](https://github.com/leubapps/SchemaStudio-releases/releases).
 
 | Platform | File | Requirements |
 |---|---|---|
-| Windows | `SchemaStudio-Setup-x.x.x.exe` | Windows 10 or later (64-bit) |
-| macOS | `SchemaStudio-x.x.x.dmg` | macOS 12 Monterey or later (Intel + Apple Silicon) |
+| Windows | `SchemaStudio_Setup.exe` | Windows 10 or later (64-bit) |
+| macOS | — | Coming soon |
 
 ## Installation
 
-**Windows** — Run the `.exe` installer. Windows SmartScreen may prompt on first launch; click **More info → Run anyway**.
+**Windows** — Run `SchemaStudio_Setup.exe`. Windows SmartScreen may prompt on first launch; click **More info → Run anyway**.
 
-**macOS** — Open the `.dmg`, drag SchemaStudio to Applications. On first launch right-click the app and choose **Open** to clear Gatekeeper.
+After installation, `.ssproj` files are associated with SchemaStudio — double-clicking one will open it directly.
+
+## Auto-update
+
+SchemaStudio checks for new releases on startup. When an update is available, a notification appears with a **Download & Install** button. The installer downloads in the background and runs silently — the app closes and updates automatically. No manual download needed.
 
 ## License
 
