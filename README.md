@@ -8,7 +8,7 @@ This repository hosts the official release builds for **SchemaStudio** by LeuB A
 
 ## Current version
 
-**1.0.1** — [Release notes](https://github.com/leubapps/SchemaStudio-releases/releases/tag/v1.0.1)
+**1.0.2** — [Release notes](https://github.com/leubapps/SchemaStudio-releases/releases/tag/v1.0.2)
 
 ## Downloads
 
